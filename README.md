@@ -2,7 +2,7 @@
 - 👀 I’m interested in server developer
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me https://masfaiq.ml
+- 📫 How to reach me https://masfaiq.glitch.me
 
 <!---
 faiqigustik/faiqigustik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
