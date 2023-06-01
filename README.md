@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faiqigustik
-- 👀 I’m interested in server developer
+- 👀 I’m interested in linux server
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me https://masfaiq.glitch.me
+- 📫 How to reach me soon
 
 <!---
 faiqigustik/faiqigustik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
